@@ -56,7 +56,7 @@ El sistema permitirá:
 
 
 ## **REGLAS DE NEGOCIO:**
-- RN000 El sistema tiene un unico perfil y rol de usuario Gerente.
+- RN000 El sistema tiene un unico perfil y rol de usuario Gerente del Sistema.
 - RN001 El gerente puede gestionar pacientes.
 - RN002	El gerente puede gestionar turnos.
 - RN003	El gerente puede administrar el catálogo de productos.
@@ -64,10 +64,10 @@ El sistema permitirá:
 - RN005	El sistema guarda un historial de atenciones de cada paciente.
 
   
-| Nombre: | El sistema tiene un unico perfil y rol de usuario Gerente (actor principal del sistema). |
+| Nombre: | El sistema tiene un unico perfil y rol de usuario Gerente del Sistema (actor principal del sistema). |
 | ----- | ---- |
 | Identificador: | *RN000* |
-| Descripción: | El sistema tendrá un perfil y rol de usuario, siendo el mismo Gerente. El Gerente debe poder tener completa operabilidad en el sistema, pudiendo gestionar los pacientes, turnos y catálog, así como poder gestionar y configurarlos descuentos del sistema. |
+| Descripción: | El sistema tendrá un perfil y rol de usuario, siendo el mismo Gerente del Sistema. El Gerente debe poder tener completa operabilidad en el sistema, pudiendo gestionar los pacientes, turnos y catálog, así como poder gestionar y configurarlos descuentos del sistema. |
 | Condiciones/consideraciones: | N/A |
 | Ejemplo casos: | - El Gerente debe tener completo control del sistema para su completa operabilidad sobre los módulos existentes: gestión de pacientes, gestión de turnos, administración de catálogo, configuración de descuentos y actualización de observaciones para el historial de cada paciente. |
 | Fuente: | Operabilidad de sistema integral, 1er relevamiento |
