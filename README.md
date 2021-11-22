@@ -12,7 +12,7 @@ El paciente se debe registrar con los siguientes datos:
 - Nombre
 - Apellido
 - DNI
-- Fecha de nacimiento (calendario)
+- Fecha de nacimiento 
 - Teléfono
 - Domicilio
 - Descripción (antecedentes médicos)
@@ -36,9 +36,9 @@ El sistema permitirá:
 _**Agendar visitas (sólo para owner del sistema inicialmente)**_
 
 - Reservar turno
-- Fecha (calendario)
+- Fecha 
 - Hora
-- Paciente (desplegable)
+- Paciente 
 
 El sistema permitirá:
 - Modificar turno
@@ -122,3 +122,9 @@ El sistema permitirá:
 | Ejemplo casos: | - El Gerente debe poder, al realizar la atención correspondiente al cliente, actualizar el historial con una nueva entrada, adjuntando la información relevada tras la sesión. - El Gerente debe poder consultar, sin necesidad de un turno activo, el historial de cualquier paciente accediendo por su identificación, para poder tener libre acceso a la información necesaria para brindar el servicio. |
 | Fuente: | Historial de atenciones particular por paciente, 1er relevamiento |
 | Reglas relacionadas: | RN001, RN002 |  
+
+## **Backlog & Story Mapping:**
+
+Como documentación complementaria se agrega el Backlog y el Story Mapping de la aplicación en Trello
+
+[Backlog & Story Mapping](https://trello.com/b/xSXdLE0D/02-amsproduct-backlog "Documentación de la APP")
